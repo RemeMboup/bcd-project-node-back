@@ -1,0 +1,175 @@
+﻿A.5.1.1.1;"Existe-t-il des politiques de sécurité ?
+"
+A.5.1.2.1;"Les politiques de sécurité sont-elles passées en revue ?
+"
+A.6.1.1.1;Les responsabilités pour la protection des biens individuels et des processus de sécurité spécifiques sont-ils clairement identifiés, définis et communiqués aux parties concernés ?
+A.6.1.2.1;"Les fonctions et les domaines de responsabilité sont-ils séparés, afin de limiter les
+possibilités de modification ou de mauvais usage, non autorisé(e) ou involontaire, des actifs de
+l’organisation ?"
+A.6.1.3.1;"Existe-t-il une procédure permettant de documenter quand, et par qui, des contacts avec les autorités compétentes (application de la loi, etc.) seront-ils effectués?
+"
+A.6.1.4.1;Des personnes dans l'organisation investies dans la sécurité du SI ont-elles des relations appropriées avec des groupes d’intérêt, des forums spécialisés, professionnels, associations dans la sécurité de l’information
+A.6.1.5.1;Tous les projets font-ils l'objet d'une évaluation de la sécurité de l'information?
+A.6.2.1.1;"Existe-t-il une politique de sécurité mobile ?
+"
+A.6.2.2.1;"Y a-t-il une politique pour le télétravail ?
+"
+A.7.1.1.1;"La vérification des antécédents sont-elles effectuées sur tous les nouveaux candidats à l'emploi?
+"
+A.7.1.2.1;"Tous les employés, les parties prenantes et les utilisateurs tiers sont-ils priés de signer des accords de confidentialité et de non-divulgation?
+"
+A.7.2.1.1;"Les managers (de tous les niveaux) sont-ils engagés dans l’utilisation de la sécurité dans l’entreprise ?
+"
+A.7.2.2.1;Les employés, parties prenantes sont-ils inscrits à des formations de sensibilisation suivant leurs domaines de travail ?
+A.7.2.3.1;"Existe-t-il un processus disciplinaire formel qui permet à l'organisation de prendre des mesures contre les employés qui ont commis une violation de la sécurité de l'information?
+"
+A.7.3.1.1;"Existe-t-il une procédure documentée pour mettre fin ou modifier des fonctions professionnelles d’un employé?
+"
+A.8.1.1.1;"Existe-t-il un inventaire de tous les actifs associés à l’information et moyens de traitement de l’information ?
+"
+A.8.1.2.1;Tous les biens informationnels ont-il un propriétaire clairement défini qui est conscient de ses responsabilités ?
+A.8.1.3.1;"Existe-t-il une politique d'utilisation pour chaque classe / type d'actif d'information?
+"
+A.8.1.4.1;Y a-t-il un processus en place pour que les employés en fin de contrat retournent les actifs en leur possession ?
+A.8.2.1.1;"Existe-t-il une politique régissant la classification de l'information?
+"
+A.8.2.2.1;Existe-t-il un processus ou une procédure pour s'assurer que la classification de l'information est correctement marquée sur chaque actif?
+A.8.2.3.1;"Existe-t-il une procédure pour traiter chaque classification d'information?
+"
+A.8.3.1.1;"Existe-t-il une politique régissant les supports amovibles?
+"
+A.8.3.2.1;Existe-t-il une procédure formelle régissant la façon dont les supports amovibles sont détruits ?
+A.8.3.3.1;"Existe-t-il une politique et un processus documentés détaillant la façon dont les médias physiques devraient être transportés?
+"
+A.9.1.1.1;"Existe-t-il une politique de contrôle d'accès documentée?
+"
+A.9.1.2.1;Des contrôles sont-ils en place pour s'assurer que les utilisateurs ont seulement accès aux ressources du réseau qu'ils ont été spécialement autorisés à utiliser et qui sont nécessaires à leurs tâches?
+A.9.2.1.1;Existe-t-il un processus d'enregistrement de l'accès des utilisateurs en place?
+A.9.2.2.1;"Y a-t-il un processus formel de maîtrise de la gestion des accès utilisateur pour
+attribuer ou révoquer des droits d’accès à tous les types d’utilisateurs de tous les systèmes et de tous les services d’information ?"
+A.9.2.3.1;Les comptes d'accès privilégiés sont-ils gérés et contrôlés séparément?
+A.9.2.4.1;Existe-t-il un processus de gestion formel pour contrôler l'attribution d'informations d'authentification secrètes?
+A.9.2.5.1;" Existe-t-il un processus permettant aux propriétaires d'actifs de réviser régulièrement leurs droits d'accès à leurs actifs?
+"
+A.9.2.6.1;Existe-t-il un processus pour s'assurer que les droits d'accès des utilisateurs sont supprimés lors de la cessation d'emploi ou du contrat, ou sont-ils ajustés en fonction du changement de rôle dans l’organisation ?
+A.9.3.1.1;"Existe-t-il un document regroupant comment les informations contenant l’authentification secrète doit être utilisé ?
+"
+A.9.4.1.1;L'accès à l'information et les fonctions d'application système sont-elles restreintes conformément à la politique de contrôle d'accès?
+A.9.4.2.1;Lorsque la politique de contrôle d'accès l'exige, l'accès est-il contrôlé par une procédure de connexion sécurisée?
+A.9.4.3.1;"Les systèmes de mots de passe sont-ils interactifs?
+"
+A.9.4.4.1;Les programmes utilitaires à privilégiés sont-ils restreints et surveillés?
+A.9.4.5.1;L'accès au code source des programmes est-il protégé?
+A.10.1.1.1;Y a-t-il une politique pour les contrôles cryptographiques ?
+A.10.1.2;Y a-t-il une politique pour la gestion sur l’utilisation, la protection et la durée de vie des clés cryptographiques (cycle de vie) ?
+A.11.1.1.1;"1.  Y a-t-il un périmètre de sécurité définit ?
+"
+A.11.1.2.1;Les zones contrôlés ont-elles des systèmes permettant de vérifier que seulement les personnes autorisées ont accès ?
+A.11.1.3.1;"Les  bureaux, salles et équipements ont t-ils été pensé avec de la sécurité ?
+"
+A.11.1.4;Existe t-il des protections physiques contre les désastres naturels, les attaques malveillantes ou les accidents ?
+A.11.1.5.1;"1. Existe t-il des zones de travails sécurisées ?
+2. Des processus ont-ils été établi pour ces zones de travails ?
+3. Ces processus sont-ils surveillés et améliorés ?"
+A.11.1.6.1;"Y a-t-il des zones de livraisons/de chargement isolés afin d’éviter des accès non-autorisés ?
+"
+A.11.2.1.1;"Les dangers environnementaux sont-ils identifiés et pris en compte lorsque les emplacements des équipements sont sélectionnés?
+"
+A.11.2.2.1;"Existe t-il un système d’alimentation sans interruption ?
+"
+A.11.2.3.1;"Des évaluations des risques ont-elles été menées sur l'emplacement des câbles d'alimentation et de télécommunications?
+"
+A.11.2.4.1;Existe-t-il un calendrier de maintenance rigoureux?
+A.11.2.5.1;"Existe-t-il un processus qui contrôle comment les actifs sont supprimés ?
+"
+A.11.2.6.1;"Existe-t-il une politique couvrant la sécurité des actifs hors site?
+"
+A.11.2.7.1;"Existe-t-il une politique couvrant comment les actifs d'information peuvent être réutilisés?
+"
+A.11.2.8.1;"L'organisation a-t-elle une politique sur la façon dont les équipements sans surveillance devraient être protégés?
+"
+A.11.2.9.1;"Existe-t-il une politique du bureau propre / écran ?
+"
+A.12.1.1.1;"Les procédures d'exploitation sont-elles bien documentées?
+"
+A.12.1.2.1;Existe-t-il un processus de gestion du changement contrôlé?
+A.12.1.3.1;"Existe-t-il un processus de gestion de la capacité?
+"
+A.12.1.4.1;L'organisation applique-t-elle une ségrégation des environnements de développement, de test et d'exploitation?
+A.12.2.1.1;"Les processus de détection des logiciels malveillants sont-ils en place?
+"
+A.12.3.1.1;"Existe-t-il une politique de sauvegarde convenue?
+"
+A.12.4.1.1;Les journaux d'événements appropriés sont-ils maintenus et régulièrement examinés?
+A.12.4.2.1;Les installations de journalisation sont-elles protégées contre la falsification et l'accès non autorisé?
+A.12.4.3.1;Les journaux sysadmin / sysop sont-ils maintenus, protégés et régulièrement examinés?
+A.12.4.4.1;Toutes les horloges de l’organisation sont-elles synchronisées ?
+A.12.5.1.1;Existe-t-il un processus en place pour contrôler l'installation de logiciels sur des systèmes opérationnels ?
+A.12.6.1.1;"L'organisation a-t-elle accès à des informations mises à jour et en temps opportun sur les vulnérabilités techniques ?
+"
+A.12.6.2.1;Existe-t-il des processus pour restreindre la façon dont les utilisateurs installent le logiciel ?
+A.12.7.1.1;"Le SI  sont-ils soumis à vérification ?
+"
+A.13.1.1.1;Existe-t-il un processus de gestion du réseau en place ?
+A.13.1.2.1;"L'organisation met-elle en œuvre une approche de gestion des risques qui identifie tous les services de réseau et les accords de service ?
+"
+A.13.1.3.1;La topologie du réseau impose-t-elle une ségrégation des réseaux pour différentes tâches ?
+A.13.2.1.1;"Les politiques organisationnelles régissent-elles la façon dont les informations sont transférées ?
+"
+A.13.2.2.1;Les contrats conclus avec des parties externes et les accords au sein de l'organisation détaillent-ils les conditions requises pour sécuriser les informations commerciales en cours de transfert?
+A.13.2.3.1;Les politiques de sécurité couvrent-elles l'utilisation du transfert d'informations lors de l'utilisation de systèmes de messagerie électronique ?
+A.13.2.4.1;"Les employés, les entrepreneurs et les agents signent-ils des accords de confidentialité ou de non-divulgation ?
+"
+A.14.1.1.1;"Les exigences de sécurité de l'information sont-elles spécifiées lorsque de nouveaux systèmes sont introduits?
+"
+A.14.1.2.1;Les applications qui envoient des informations sur des réseaux publics protègent-elles de manière appropriée les informations contre les activités frauduleuses, les conflits contractuels, les divulgateurs non autorisés et les modifications non autorisées?
+A.14.1.3.1;Des contrôles sont-ils en place pour empêcher une transmission incomplète, une mauvaise transposition, une altération de message non autorisée, une divulgation non autorisée, une duplication de message non autorisée ou des attaques de répétition?
+A.14.2.1.1;"L'organisation développe-t-elle un logiciel ou un système?
+"
+A.14.2.2.1;Existe-t-il un processus formel de contrôle des changements?
+A.14.2.3.1;Existe-t-il un processus pour s'assurer qu'un examen technique est effectué lorsque les plates-formes d'exploitation sont modifiées?
+A.14.2.4.1;Existe-t-il une politique qui exige quand et comment les paquets de logiciels peuvent être changer ou modifiés?
+A.14.2.5.1;L'organisation a-t-elle des principes documentés sur la manière dont les systèmes doivent être conçus pour assurer la sécurité?
+A.14.2.6.1;"un environnement de développement sécurisé at-il été établi?
+"
+A.14.2.7.1;"Lorsque le développement a été externalisé, est-ce supervisé?
+"
+A.14.2.8.1;Lorsque des systèmes ou des applications sont développés, les tests de sécurité sont-ils testés dans le cadre du processus de développement?
+A.14.2.9.1;Existe-t-il un processus établi pour accepter de nouveaux systèmes / applications, ou mises à niveau, dans l'utilisation de la production?
+A.14.3.1.1;"Existe-t-il un processus de séparation des données de test?
+"
+A.15.1.1.1;"La sécurité de l'information est-elle incluse dans les contrats établis avec les fournisseurs ?
+"
+A.15.1.2.1;"Les fournisseurs ont-ils des exigences de sécurité documentées?
+"
+A.15.1.3.1;Les accords de fournisseur incluent-ils des exigences pour répondre à la sécurité de l'information dans la chaîne d'approvisionnement des services et des produits?
+A.15.2.1.1;Les fournisseurs sont-ils soumis à un examen et une vérification réguliers?
+A.15.2.2.1;Les changements apportés à la prestation de services sont-ils assujettis à un processus de gestion qui comprend l'évaluation de la sécurité et des risques?
+A.16.1.1.1;Les responsabilités de gestion sont-elles clairement identifiées et documentées dans les processus de gestion des incidents?
+A.16.1.2.1;"Existe-t-il un processus de «timely reporting »  opportun des événements de sécurité de l'information?
+"
+A.16.1.3.1;"Existe-t-il un processus pour signaler les faiblesses identifiées en matière de sécurité de l'information?
+"
+A.16.1.4.1;Existe-t-il un processus pour s'assurer que les événements de sécurité de l'information sont correctement évalués et classés?
+A.16.1.5.1;Existe-t-il un processus de réponse aux incidents qui reflète la classification et la sévérité des incidents de sécurité de l'information?
+A.16.1.6.1;Existe-t-il un processus ou framework qui permet à l'organisation d'apprendre des incidents de sécurité de l'information et de réduire l'impact / la probabilité des événements futurs?
+A.16.1.7;"Existe-t-il une politique pour le Forensic
+"
+A.17.1.1.1;"La sécurité d'information est-elle incluse dans les plans de continuité de l'organisation?
+"
+A.17.1.2.1;La fonction de sécurité de l'information de l'organisation at-elle documenté, mis en œuvre et maintenu des processus pour maintenir la continuité du service lors d'une situation défavorable?
+A.17.1.3.1;Les plans de continuité sont-ils validés et vérifiés à intervalles réguliers?
+A.17.2.1.1;Les installations de traitement de l'information ont-elles une redondance suffisante pour répondre aux exigences de disponibilité des organisations?
+A.18.1.1.1;"L'organisation at-elle identifié et documenté toutes les exigences législatives, réglementaires ou contractuelles pertinentes liées à la sécurité?
+"
+A.18.1.2.1;"Est-ce que l'organisation tient un registre de tous les droits de propriété intellectuelle et l'utilisation de produits logiciels exclusifs?
+"
+A.18.1.3.1;Les dossiers sont-ils protégés contre les pertes, les destructions, les falsifications et l'accès ou la publication non autorisés conformément aux exigences législatives, réglementaires, contractuelles et commerciales?
+A.18.1.4.1;"Les données personnelles sont-elles identifiées et classées de manière appropriée?
+"
+A.18.1.5.1;Les contrôles cryptographiques sont-ils protégés conformément à tous les accords, lois et règlements pertinents?
+A.18.2.1.1;"L'approche des organisations pour gérer la sécurité de l'information est-elle soumise à un examen indépendant régulier?
+"
+A.18.2.2.1;"L'organisation demande-t-elle aux gestionnaires d'examiner régulièrement le respect de la politique et des procédures dans leur domaine de responsabilité?
+"
+A.18.2.3.1;L'organisation effectue-t-elle régulièrement des examens techniques de conformité de ses systèmes d'information?

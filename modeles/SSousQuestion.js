@@ -1,28 +1,23 @@
 const mongoose = require('mongoose')
 const {Schema} = mongoose
-const  SousQuestion = require('./SousQuestion')
-
-const AuditQuestion = require('./AuditQuestion')
 
 const sSousQuestionSchema = new Schema({
-    numeroSSousQuestion: {
-        type: String
+    reference: {
+        type: String,
+        unique: true
     },
     description: {
         type: String
-    },
-    sousQuestion:[
-        {type: Schema.Types.ObjectId, ref:'SousQuestion'}
-    ],
+    }
     
     
 })
-const SSousQuestion = mongoose.model('SSousQuestion', sSousQuestionSchema)
-
+//const SSousQuestion = mongoose.model('SSousQuestion', sSousQuestionSchema)
+// ajout d'un nouveau ssouquestion
 // var ssousQuestion = new SSousQuestion({
 //     numeroSSousQuestion: 'A.5.1.1',
 //     description: 'Politiques de sécurité de l\'information',
-//     sousQuestion: '65e9f83c6918c3340662d1c4'
+//     sousQuestion: '65f42935dd6833cabca7c9d6'
 
 // })
 // // ajout dans la bd

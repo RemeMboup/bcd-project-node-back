@@ -1,22 +1,13 @@
 const mongoose = require('mongoose')
 const  { Schema }= mongoose
 
-const Question = require('./Question')
 
 
 const  sousQuestionSchema = new Schema({
-    id: {
-        type: Number,
-        unique:true
-
-    },
     description: {
         type: String
     },
-    question:[
-        {type: Schema.Types.ObjectId, ref: 'Question'}
-      ],
-    numeroSousQ: {
+    reference: {
         type: String,
         unique: true
         
@@ -25,7 +16,7 @@ const  sousQuestionSchema = new Schema({
 })
 
 
-const SousQuestion =  mongoose.model('SousQuestion', sousQuestionSchema)
+//const SousQuestion =  mongoose.model('SousQuestion', sousQuestionSchema)
 
 // creation d'une sousQuestion
 // var sousQuestion = new SousQuestion({

@@ -1,0 +1,115 @@
+﻿A.5.1.1;Politiques de sécurité de l'information
+A.5.1.2;Revue des politiques de sécurité de l’information
+A.6.1.1;Fonctions et responsabilités liées à la sécurité de l’information
+A.6.1.2;Séparation des tâches
+A.6.1.3;Relation avec les autorités
+A.6.1.4;Relation avec des groupes de travail spécialisés 
+A.6.1.5;La sécurité de l’information dans la gestion de projet
+A.6.2.1;Politique en matière d’appareils mobiles
+A.6.2.2;Télétravail
+A.7.1.1;Sélection des candidats
+A.7.1.2;Termes et conditions d’embauche
+A.7.2.1;Responsabilités de la direction
+A.7.2.2;Sensibilisation, apprentissage et formation à la sécurité de l’information
+A.7.2.3;Processus disciplinaire 
+A.7.3.1;Achèvement ou modification des responsabilités associées au contrat de travail
+A.8.1.1;Inventaire des actifs
+A.8.1.2;Propriété des actifs
+A.8.1.3;Utilisation correcte des actifs
+A.8.1.4;Restitution des actifs
+A.8.2.1;Classification des informations
+A.8.2.2;Marquage des informations
+A.8.2.3;Manipulation des actifs
+A.8.3.1;Gestion des supports amovibles
+A.8.3.2;Mise en rebut des supports
+A.8.3.3;Manipulation des actifs
+A.9.1.1;Politique de contrôle d’accès
+A.9.1.2;Accès aux réseaux et services réseau
+A.9.2.1;Enregistrement et désinscription des utilisateurs
+A.9.2.2;Distribution des accès aux utilisateurs
+A.9.2.3;Gestion des droits d’accès à privilèges
+A.9.2.4;Gestion des information secrètes d’authentification des utilisateurs
+A.9.2.5;Revue des droits d’accès d’utilisateurs
+A.9.2.6;Suppression ou adaptation des droits d’accès
+A.9.3.1;Utilisation d’informations secrètes d’authentification
+A.9.4.1;Restriction d’accès à l’information
+A.9.4.2;Sécuriser les procédures de connexion
+A.9.4.3;Système de gestion des mots de passe
+A.9.4.4;Utilisation de programme utilitaires à privilèges
+A.9.4.5;Contrôle d’accès au code source des programmes
+A.10.1.1;Politique d’utilisation des mesures cryptographiques
+A.10.1.2;Gestion des clés
+A.11.1.1;Périmètre de sécurité physique
+A.11.1.2;Contrôle d'accès physique
+A.11.1.3;Sécurisation des bureaux, des salles et équipements
+A.11.1.4;Protection contre les menaces extérieures et environnementales 
+A.11.1.5;Travail dans les zones sécurisées
+A.11.1.6;Zone de livraison et de chargement
+A.11.2.1;Emplacement et protection des matériels 
+A.11.2.2;Services généraux
+A.11.2.3;Sécurité du câblage 
+A.11.2.4;Maintenance des matériels 
+A.11.2.5;sorties des actifs
+A.11.2.6;Sécurité des matériels et des actifs hors des locaux
+A.11.2.7;Mise en rebut ou recyclage sécurisé(e) des matériels
+A.11.2.8;Matériels utilisateur laissés sans surveillance
+A.11.2.9;Politique du bureau propre et de l’écran verrouillé
+A.12.1.1;Procédure d’exploitations documentées
+A.12.1.2;Gestion des changements
+A.12.1.3;Dimensionnement
+A.12.1.4;Séparation des environnements de développement, de test et d ‘exploitation
+A.12.2.1;Mesures contre les logiciels malveillants
+A.12.3.1;Sauvegarde des informations
+A.12.4.1;Journalisation des évènements
+A.12.4.2;Protection de l’information journalisée
+A.12.4.3;Journaux administrateur et opérateur
+A.12.4.4;Synchronisation des horloges
+A.12.5.1;Installation de logiciels sur des systèmes en exploitation
+A.12.6.1;Gestion des vulnérabilités techniques
+A.12.6.2;Restriction liées à l’installation de logiciels
+A.12.7.1;Mesures relatives à l’audit des systèmes d’information
+A.13.1.1;Contrôle des réseaux
+A.13.1.2;Sécurité des services de réseau
+A.13.1.3;Cloisonnement des réseaux
+A.13.2.1;Politiques et procédures de transfert de l’information
+A.13.2.2;Accords en matière de transfert d’information
+A.13.2.3;Messagerie électronique
+A.13.2.4;Engagement de confidentialité ou de non-divulgation
+A.14.1.1;Analyse et spécification des exigences de sécurité de l’information
+A.14.1.2;Sécurisation des services d’application sur les réseaux publics
+A.14.1.3;Protection des transactions liées aux services d’application
+A.14.2.1;Politique de développement sécurisé
+A.14.2.2;Procédures de contrôle des changements de système
+A.14.2.3;Revue technique des applications après changement apporté à la plateforme d’exploitation
+A.14.2.4;Restrictions relatives aux changements apportés aux progiciels
+A.14.2.5;Principes d’ingénierie de la sécurité des systèmes
+A.14.2.6;Environnement de développement sécurisé
+A.14.2.7;Développement externalisé
+A.14.2.8;Test de la sécurité du système
+A.14.2.9;Test de conformité du système
+A.14.3.1;Protection des données de test
+A.15.1.1;Politique de sécurité de l’information dans les relations avec les fournisseurs
+A.15.1.2;La sécurité dans les accords conclus avec les fournisseurs
+A.15.1.3;Chaîne d’approvisionnement des produits et des services informatiques
+A.15.2.1;Surveillance et revue des services des fournisseurs
+A.15.2.2;Gestion des changements apportés dans les services des fournisseurs
+A.16.1.1;Responsabilités et procédures
+A.16.1.2;Signalement des évènements liés à la sécurité de l’information
+A.16.1.3;Signalement des failles liées à la sécurité de l’information
+A.16.1.4;Appréciation des évènements liés à la sécurité de l’information et prise de décision
+A.16.1.5;Réponse aux incidents liés à la sécurité de l’information
+A.16.1.6;Tirer des enseignements des incidents liés à la sécurité de l’information
+A.16.1.7;Collecte de preuves
+A.17.1.1;Organisation de la continuité de la sécurité de l’information
+A.17.1.2;Mise en oeuvre de la continuité de la sécurité de l’information 
+A.17.1.3;Vérifier, revoir et évaluer la continuité de la sécurité de l’information
+A.17.2.1;Disponibilité des moyens de traitement de l’information 
+A.18.1.1;Identification de la législation et des exigences contractuelles applicables 
+A.18.1.2;Droits de propriété intellectuelle 
+A.18.1.3;Protection des enregistrements
+A.18.1.4;Protection de la vie privée et protection des données à caractères personnelles
+A.18.1.5;Réglementation relative aux mesures cryptographiques
+A.18.2.1;Revue indépendante de la sécurité de l’information
+A.18.2.2;Conformité avec les politiques et les normes de sécurité
+A.18.2.3;Vérification de la conformité technique
+;

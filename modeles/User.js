@@ -36,14 +36,14 @@ const User = mongoose.model('User', userSchema);
          console.error(err)
      })*/
 //recherche toutes les personnes
-// User
-//     .find()
-//     .then(docs => {
-//         console.log('Utilisateurs trouvées.',docs)
-//     })
-//     .catch(err => {
-//         console.error(err)
-//     })
+User
+    .find()
+    .then(docs => {
+        console.log('Utilisateurs trouvées.',docs)
+    })
+    .catch(err => {
+        console.error(err)
+    })
 
 //Methode pour supprimer un objet par son id
 //  var id_user = "65ddeab8635b6021a58f32e2"

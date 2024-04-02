@@ -3,13 +3,13 @@ const { Schema } = mongoose;
 
 
 const questionSchema = new Schema({
-    id: {
-        type: Number,
-        unique: true // Assurez-vous que chaque ID est unique
-      },
-    numeroQuestion: {
+    // id: {
+    //     type: Number,
+    //     unique: true // Assurez-vous que chaque ID est unique
+    //   },
+    reference: {
         type: String,
-        unique: true
+        //unique: true
     },
     description: {
         type: String,
