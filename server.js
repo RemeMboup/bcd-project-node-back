@@ -13,6 +13,11 @@ const Question = require('./modeles/Question')
 const SousQuestion = require('./modeles/SousQuestion')
 const SSousQuestion = require('./modeles/SSousQuestion')
 const AuditQuestion = require('./modeles/AuditQuestion')
+const TypeUser = require('./modeles/TypeUser')
+const Profile = require('./modeles/Profile')
+const Projet = require('./modeles/Projet')
+const DetailProjetAudit = require('./modeles/DetailProjetAudit')
+
 const mongoose = require('mongoose')
 // CORS headerS
 app.use((req, res, next) => {
